@@ -90,10 +90,6 @@ F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.DAL\bin\Debug\es\Micr
 F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.csprojResolveAssemblyReference.cache
 F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.dll
 F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.pdb
-F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.Migrations.IncidenceANDMessageadded.resources
-F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.csproj.GenerateResource.Cache
-F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.Migrations.IncidenceTittleadded.resources
-F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.Migrations.USerName.resources
 C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.DAL\bin\Debug\Selectcomp.DAL.dll.config
 C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.DAL\bin\Debug\Selectcomp.DAL.dll
 C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.DAL\bin\Debug\Selectcomp.DAL.pdb
@@ -114,3 +110,6 @@ C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.DAL\bin\Debug\es\Microsoft.AspNet
 C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.csprojResolveAssemblyReference.cache
 C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.dll
 C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.pdb
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.Migrations.InitialCreate.resources
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.csproj.GenerateResource.Cache
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.Migrations.prueba.resources
