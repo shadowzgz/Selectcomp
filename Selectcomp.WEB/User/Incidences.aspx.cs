@@ -27,7 +27,10 @@ namespace Selectcomp.WEB.User
             }
             lblUserId.Text = User.Identity.GetUserId();
             GridView1.UseAccessibleHeader = true;
-            GridView1.HeaderRow.TableSection = TableRowSection.TableHeader;
+            if(GridView1.HeaderRow != null)
+            {
+                GridView1.HeaderRow.TableSection = TableRowSection.TableHeader;
+            }
             if (!Page.IsPostBack)
             {
                 ddlIncidenceType.DataSource = null;

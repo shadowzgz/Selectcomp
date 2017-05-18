@@ -49,7 +49,7 @@
         </asp:SqlDataSource>
         <asp:Label ID="lblUserId" runat="server" Text="Label" Visible="False"></asp:Label>
         <br />
-        <asp:Button ID="btnCreateIncidence" runat="server" OnClick="btnCreateIncidence_Click" Text="Crear incidencia" Width="126px" />
+        <asp:Button ID="btnCreateIncidence" runat="server" OnClick="btnCreateIncidence_Click" Text="Crear incidencia" Width="167px" Height="52px" />
     </p>
     <asp:Panel ID="pnlCreateIncidence" runat="server" Visible="False">
         Crear una nueva incidencia:<br />
