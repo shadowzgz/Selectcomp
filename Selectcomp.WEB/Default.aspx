@@ -9,7 +9,7 @@
 
     <div class="row">
         <div class="col-md-4">
-            <h2>Nuestros productos</h2>
+            <h2>Nuestros productos PRUEBA</h2>
             <p>
                 En Selectcomp le ofrecemos una amplia gama de componentes de ordenador de los mejores fabricantes y los mejores precios del mercado.</p>
             <p>
