@@ -59,7 +59,7 @@
         <br />
         <br />
         Tipo de incidencia:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:DropDownList ID="ddlIncidenceType" runat="server" Height="18px" Width="200px">
+        <asp:DropDownList ID="ddlIncidenceType" runat="server" Height="30px" Width="200px">
         </asp:DropDownList>
         <br />
         <br />
